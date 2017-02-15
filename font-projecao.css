@@ -1,0 +1,250 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "fontprojecao";
+  src:url("fonts/fontprojecao.eot");
+  src:url("fonts/fontprojecao.eot?#iefix") format("embedded-opentype"),
+    url("fonts/fontprojecao.woff") format("woff"),
+    url("fonts/fontprojecao.ttf") format("truetype"),
+    url("fonts/fontprojecao.svg#fontprojecao") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "fontprojecao" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="fp-"]:before,
+[class*=" fp-"]:before {
+  font-family: "fontprojecao" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fp-p-open:before {
+  content: "\63";
+}
+.fp-briefcase:before {
+  content: "\67";
+}
+.fp-mortar-board:before {
+  content: "\68";
+}
+.fp-microscope:before {
+  content: "\69";
+}
+.fp-calendar:before {
+  content: "\6a";
+}
+.fp-check:before {
+  content: "\6b";
+}
+.fp-checklist:before {
+  content: "\6c";
+}
+.fp-clippy:before {
+  content: "\6d";
+}
+.fp-graph:before {
+  content: "\6f";
+}
+.fp-globe:before {
+  content: "\70";
+}
+.fp-location:before {
+  content: "\71";
+}
+.fp-key:before {
+  content: "\72";
+}
+.fp-milestone:before {
+  content: "\73";
+}
+.fp-pin:before {
+  content: "\74";
+}
+.fp-person:before {
+  content: "\75";
+}
+.fp-pencil:before {
+  content: "\76";
+}
+.fp-paintcan:before {
+  content: "\77";
+}
+.fp-organization:before {
+  content: "\78";
+}
+.fp-podium:before {
+  content: "\79";
+}
+.fp-puzzle:before {
+  content: "\7a";
+}
+.fp-question:before {
+  content: "\41";
+}
+.fp-repo-clone:before {
+  content: "\43";
+}
+.fp-repo-force-push:before {
+  content: "\44";
+}
+.fp-rocket:before {
+  content: "\45";
+}
+.fp-pencil-1:before {
+  content: "\46";
+}
+.fp-paint-bucket:before {
+  content: "\47";
+}
+.fp-projection-screen:before {
+  content: "\48";
+}
+.fp-puzzle-1:before {
+  content: "\49";
+}
+.fp-results-demographics:before {
+  content: "\4a";
+}
+.fp-results:before {
+  content: "\4b";
+}
+.fp-shopping-bag:before {
+  content: "\4c";
+}
+.fp-book-open:before {
+  content: "\4d";
+}
+.fp-bookmark:before {
+  content: "\4e";
+}
+.fp-bookmarks:before {
+  content: "\4f";
+}
+.fp-book:before {
+  content: "\50";
+}
+.fp-clipboard:before {
+  content: "\51";
+}
+.fp-chat:before {
+  content: "\52";
+}
+.fp-chart-pie:before {
+  content: "\53";
+}
+.fp-chart-line:before {
+  content: "\54";
+}
+.fp-chart-bar:before {
+  content: "\55";
+}
+.fp-chart-area:before {
+  content: "\56";
+}
+.fp-direction:before {
+  content: "\57";
+}
+.fp-docs:before {
+  content: "\58";
+}
+.fp-doc-text-inv:before {
+  content: "\59";
+}
+.fp-doc-text:before {
+  content: "\5a";
+}
+.fp-download:before {
+  content: "\30";
+}
+.fp-drive:before {
+  content: "\31";
+}
+.fp-floppy:before {
+  content: "\32";
+}
+.fp-flag:before {
+  content: "\33";
+}
+.fp-folder:before {
+  content: "\34";
+}
+.fp-graduation-cap:before {
+  content: "\35";
+}
+.fp-lamp:before {
+  content: "\36";
+}
+.fp-mail:before {
+  content: "\37";
+}
+.fp-map:before {
+  content: "\38";
+}
+.fp-menu:before {
+  content: "\39";
+}
+.fp-newspaper:before {
+  content: "\21";
+}
+.fp-paper-plane:before {
+  content: "\22";
+}
+.fp-tag:before {
+  content: "\23";
+}
+.fp-switch:before {
+  content: "\24";
+}
+.fp-sweden:before {
+  content: "\25";
+}
+.fp-suitcase:before {
+  content: "\26";
+}
+.fp-location-p:before {
+  content: "\61";
+}
+.fp-p:before {
+  content: "\62";
+}
+.fp-p-open-1:before {
+  content: "\64";
+}
+.fp-bookmark-outline:before {
+  content: "\65";
+}
+.fp-bookmark-1:before {
+  content: "\66";
+}
+.fp-bookmark-2:before {
+  content: "\27";
+}
+.fp-book-1:before {
+  content: "\28";
+}
+.fp-repo:before {
+  content: "\6e";
+}
+.fp-ios-information-outline:before {
+  content: "\42";
+}

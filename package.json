@@ -1,0 +1,34 @@
+{
+  "name": "font-projecao",
+  "version": "1.0.3",
+  "description": "The projecao font and CSS framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "font",
+    "projecao",
+    "fontprojecao",
+    "icon",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/uni-projecao",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uni-projecao/font-projecao.git"
+  },
+  "author": {
+    "name": "Antério Vieira",
+    "email": "anteriovieira@gmail.com",
+    "web": "http://twitter.com/anteriovieira"
+  },
+  "style": "font-projecao.css",
+  "files": [
+    "fonts",
+    "font-projecao.css",
+    "icons.html",
+    "LICENSE"
+  ]
+}
