@@ -10,7 +10,7 @@ Copy this code into your HTML page header:
 
 `<link href="https://file.myfontastic.com/f6BoET7SSmCRA9gMkdoYAP/icons.css" rel="stylesheet">`
 
-> Note: Non-cached files (serving from LA data center, No Browser Cache)
+> **Note**: Non-cached files (serving from LA data center, No Browser Cache).
 
 ### Or download and install your icon font manually
 
