@@ -4,7 +4,7 @@
 
 Font Projeção is a full suite of 70 pictographic icons for easy scalable vector graphics on websites, created and maintained by Antério Vieira.
 
-### Use
+### Usage
 
 Copy this code into your HTML page header:
 
