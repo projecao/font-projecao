@@ -200,8 +200,7 @@
 }
 
 /*---------------------------------------------------*/
-
-.fp-p-open:before {
+.fp-p-o:before {
   content: "\63";
 }
 .fp-briefcase:before {
@@ -390,7 +389,7 @@
 .fp-p:before {
   content: "\62";
 }
-.fp-p-open-1:before {
+.fp-p-open:before {
   content: "\64";
 }
 .fp-bookmark-outline:before {
@@ -408,6 +407,6 @@
 .fp-repo:before {
   content: "\6e";
 }
-.fp-ios-information-outline:before {
+.fp-info-o:before {
   content: "\42";
 }
