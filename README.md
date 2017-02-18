@@ -14,7 +14,7 @@ Copy this code into your HTML page header:
 
 ### Or download and install your icon font manually
 
-[Download | 70 Icons](http://app.fontastic.me/download/font/f6BoET7SSmCRA9gMkdoYAP/)
+[Download](http://app.fontastic.me/download/font/f6BoET7SSmCRA9gMkdoYAP/) | [See 70 Icons](https://uni-projecao.github.io/)
 
 #### How to install the font?
 
