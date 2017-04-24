@@ -14,10 +14,10 @@
     "bootstrap"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/uni-projecao",
+  "homepage": "https://github.com/projecao",
   "repository": {
     "type": "git",
-    "url": "https://github.com/uni-projecao/font-projecao.git"
+    "url": "https://github.com/projecao/font-projecao.git"
   },
   "author": {
     "name": "Antério Vieira",
